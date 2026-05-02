@@ -81,58 +81,6 @@ BI Tools
 ```
 
 ---
-
-## 🚀 How to Run
-
-### Option 1 — Google Colab (Recommended)
-
-```python
-# Step 1: Install libraries
-!pip install textblob vaderSentiment pandas matplotlib
-
-# Step 2: Run NLTK downloads
-import nltk
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
-
-# Step 3: Paste & run sentiment_analysis.py code
-
-# Step 4: Download CSV output
-from google.colab import files
-files.download('sentiment_results.csv')
-```
-
-### Option 2 — Local Machine
-
-```bash
-# Clone the repository
-git clone https://github.com/[your-username]/sentiment-analysis.git
-cd sentiment-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the project
-python sentiment_analysis.py
-```
-
----
-
-## 📈 Tableau & Power BI Dashboards
-
-After running the Python script, import `sentiment_results.csv` into your BI tool:
-
-**Tableau:**
-- Connect > Text File > `sentiment_results.csv`
-- Build: Donut Chart, Bar Chart (by product), Line Chart (time trend)
-
-**Power BI:**
-- Get Data > CSV > `sentiment_results.csv`
-- DAX Measures: `Positive %`, `Avg Score`, `Total Reviews`
-- Add Slicers: Product, Sentiment, Date Range
-
----
-
 ## 📚 What I Learned
 
 - Difference between **rule-based** (TextBlob) and **lexicon-based** (VADER) NLP models
@@ -153,11 +101,11 @@ After running the Python script, import `sentiment_results.csv` into your BI too
 
 ## 👩‍💻 Author
 
-**[Aapka Naam]**  
-Data Science Student | NLP Enthusiast  
-📧 [email@example.com]  
-🔗 [LinkedIn Profile URL]  
-💻 [GitHub Profile URL]
+**[Maryam Saif]**  
+Data Science Student
+📧 [Maryamcheema736@gmail.com]  
+🔗 [[LinkedIn Profile URL](https://www.linkedin.com/in/maryam-saif-110859231)]  
+💻 [[GitHub Profile URL](https://github.com/saifmaryam)]
 
 ---
 
