@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis — NLP Portfolio Project
+# 🧠 Sentiment Analysis 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![NLP](https://img.shields.io/badge/NLP-TextBlob%20%7C%20VADER-green?style=flat-square)
@@ -103,6 +103,7 @@ BI Tools
 
 **[Maryam Saif]**  
 Data Science Student
+
 📧 [Maryamcheema736@gmail.com]  
 🔗 [[LinkedIn Profile URL](https://www.linkedin.com/in/maryam-saif-110859231)]  
 💻 [[GitHub Profile URL](https://github.com/saifmaryam)]
