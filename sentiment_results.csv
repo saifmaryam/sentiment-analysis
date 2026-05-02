@@ -1,0 +1,21 @@
+review,product,rating,date,TB_Sentiment,TB_Score,VADER_Sentiment,VADER_Score,Final_Sentiment,Confidence
+This product is absolutely amazing! Best purchase ever.,Laptop,5,2024-01-01,Positive,0.875,Positive,0.871,Positive,High
+Terrible quality. Broke after 2 days. Complete waste of money.,Headphones,1,2024-01-19,Negative,-0.367,Negative,-0.827,Negative,High
+"It's okay, nothing special. Does the job but nothing more.",Mouse,3,2024-02-06,Positive,0.452,Neutral,-0.046,Neutral,Low
+Excellent build quality and fast delivery. Highly recommend!,Keyboard,5,2024-02-24,Positive,0.467,Positive,0.777,Positive,High
+Very disappointed. Not as described in the listing.,Laptop,2,2024-03-13,Negative,-0.975,Negative,-0.526,Negative,High
+Great value for money. Works perfectly for my needs.,Monitor,4,2024-03-31,Positive,0.9,Positive,0.893,Positive,High
+Worst customer service ever. Product stopped working after a week.,Headphones,1,2024-04-18,Negative,-1.0,Negative,-0.718,Negative,High
+Decent product. Shipping was fast. Would buy again.,Mouse,4,2024-05-06,Positive,0.183,Neutral,0.0,Neutral,Low
+Absolutely love this! Exceeded my expectations completely.,Keyboard,5,2024-05-24,Positive,0.362,Positive,0.699,Positive,High
+Average product. Not bad but not great either.,Monitor,3,2024-06-11,Negative,-0.067,Negative,-0.545,Negative,High
+Super happy with this purchase! Fast shipping and great quality.,Laptop,5,2024-06-29,Positive,0.583,Positive,0.918,Positive,High
+Do not buy this. Complete scam. Returned immediately.,Headphones,1,2024-07-17,Positive,0.1,Negative,-0.572,Negative,High
+Good product but slightly overpriced for what you get.,Mouse,3,2024-08-04,Positive,0.267,Positive,0.238,Positive,Medium
+Fantastic! Exactly what I needed. Perfect condition.,Keyboard,5,2024-08-22,Positive,0.583,Positive,0.822,Positive,High
+Battery life is terrible. Very frustrating to use.,Monitor,2,2024-09-09,Negative,-0.76,Negative,-0.743,Negative,High
+Works as expected. No issues so far after 3 months.,Laptop,4,2024-09-27,Neutral,0.0,Negative,-0.296,Negative,Medium
+Amazing sound quality! Very impressed with the performance.,Headphones,5,2024-10-15,Positive,0.7,Positive,0.817,Positive,High
+Stopped working after one month. Really let down by this.,Mouse,2,2024-11-02,Neutral,0.022,Negative,-0.226,Negative,Medium
+The build quality is outstanding. Worth every penny.,Keyboard,5,2024-11-20,Positive,0.4,Positive,0.71,Positive,High
+Not what I expected. Poor packaging and missing parts.,Monitor,2,2024-12-08,Negative,-0.233,Negative,-0.649,Negative,High
